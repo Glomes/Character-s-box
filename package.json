@@ -1,0 +1,22 @@
+{
+  "name": "character-s-box",
+  "version": "1.0.0",
+  "description": "a creation system to RPG's characters",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "nodemon src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "dependencies": {
+    "express": "^5.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "typescript": "^5.8.3"
+  }
+}
